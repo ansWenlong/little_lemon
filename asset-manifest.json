@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/react-gh-pages/static/js/main.58b8cd97.js",
-    "static/js/787.a2f6b77c.chunk.js": "/react-gh-pages/static/js/787.a2f6b77c.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/react-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.58b8cd97.js.map": "/react-gh-pages/static/js/main.58b8cd97.js.map",
-    "787.a2f6b77c.chunk.js.map": "/react-gh-pages/static/js/787.a2f6b77c.chunk.js.map"
+    "main.css": "/little_lemon/static/css/main.073c9b0a.css",
+    "main.js": "/little_lemon/static/js/main.479344ff.js",
+    "static/js/787.a2f6b77c.chunk.js": "/little_lemon/static/js/787.a2f6b77c.chunk.js",
+    "index.html": "/little_lemon/index.html",
+    "main.073c9b0a.css.map": "/little_lemon/static/css/main.073c9b0a.css.map",
+    "main.479344ff.js.map": "/little_lemon/static/js/main.479344ff.js.map",
+    "787.a2f6b77c.chunk.js.map": "/little_lemon/static/js/787.a2f6b77c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.58b8cd97.js"
+    "static/js/main.479344ff.js"
   ]
 }
